@@ -1,2 +1,0 @@
-# PLPBasicGitAssignment
-for power learn
